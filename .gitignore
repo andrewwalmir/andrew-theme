@@ -5,6 +5,7 @@
 !.gitignore
 
 # ignorando tudo dentro de wp-content primeiro
+!wp-content/
 wp-content/*
 
 # removendo o ignore de wp-content/themes
