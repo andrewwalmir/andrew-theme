@@ -7,7 +7,7 @@
 # ignorando tudo dentro de wp-content primeiro
 wp-content/*
 
-# em seguida removendo o ignore de wp-content/themes
+# removendo o ignore de wp-content/themes
 !wp-content/themes/
 
 # ignorando temas específicos e o index da pasta themes
